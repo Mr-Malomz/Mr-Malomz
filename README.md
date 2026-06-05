@@ -1,8 +1,19 @@
-### Hi, I'm Demola Malomo
+### Hi, I'm Demola Malomo 👋
 
-- 🖥️ I primarily code in the JavaScript/TypeScript stack
-- 🎨 I also design [Behance](https://www.behance.net/ademolamalomo)
-- 🏗️ I'm the founder of [FullstackWriter.dev](https://fullstackwriter.dev/)
-- 🦀 I’m currently learning Rust and Go at the moment
-- 🐦 You can follow me on X [@malomz](https://twitter.com/Malomz)
-- 📝 You can read some of my writings [Dev.to](https://dev.to/malomz)
+Platform and systems engineer focused on Rust, cloud infrastructure, and developer tooling.
+
+I build and operate containerized systems, developer platforms, and the tooling that makes them easier to use.
+
+* 🦀 Building backends, services, and developer tools in **Rust**
+* 🚢 Creator of **DockAdmin**, a Docker-native database administration UI supporting PostgreSQL, MySQL, and SQLite
+* ☁️ Running Kubernetes infrastructure with **k3s, Proxmox, and AWS**
+* 🛠️ Shipping production systems across Rust, TypeScript, and Node.js
+* 🎨 Design background with a strong focus on developer experience and documentation
+* 🌍 Contributor to the SautiDB-Naija open-source speech corpus
+* 📝 Founder of FullstackWriter.dev, writing about Rust, Kubernetes, cloud infrastructure, and developer platforms
+
+**Current interests:** Rust, Kubernetes, platform engineering, developer experience, observability, and self-hosted infrastructure.
+
+* Blog: https://fullstackwriter.dev
+* Dev.to: https://dev.to/malomz
+* X: https://twitter.com/Malomz
